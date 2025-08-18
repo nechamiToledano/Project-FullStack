@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FFkVQjbfmyg=",
+  "dgSpecHash": "ICCj8wvCwCI=",
   "success": true,
-  "projectFilePath": "C:\\Users\\user1\\Desktop\\MyProject\\MyProject.Domain\\MyProject.Domain.csproj",
+  "projectFilePath": "C:\\Users\\user1\\Desktop\\Project-FullStack\\Backend\\MyProject.Domain\\MyProject.Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user1\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512",
     "C:\\Users\\user1\\.nuget\\packages\\microsoft.net.sdk.compilers.toolset\\9.0.201\\microsoft.net.sdk.compilers.toolset.9.0.201.nupkg.sha512"
